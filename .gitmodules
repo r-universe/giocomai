@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/giocomai/giocomai.r-universe.dev
 	branch = HEAD
+[submodule "castarter"]
+	path = castarter
+	url = https://github.com/giocomai/castarter
+[submodule "ganttrify"]
+	path = ganttrify
+	url = https://github.com/giocomai/ganttrify
+[submodule "huecontroller"]
+	path = huecontroller
+	url = https://github.com/giocomai/huecontroller
+[submodule "latlon2map"]
+	path = latlon2map
+	url = https://github.com/giocomai/latlon2map
+[submodule "nomnomlgraph"]
+	path = nomnomlgraph
+	url = https://github.com/giocomai/nomnomlgraph
+[submodule "plausibler"]
+	path = plausibler
+	url = https://github.com/giocomai/plausibler
+[submodule "rbackupr"]
+	path = rbackupr
+	url = https://github.com/giocomai/rbackupr
+[submodule "zoteror"]
+	path = zoteror
+	url = https://github.com/giocomai/zoteror
