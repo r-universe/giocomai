@@ -5,6 +5,9 @@
 [submodule "castarter"]
 	path = castarter
 	url = https://github.com/giocomai/castarter
+[submodule "cornucopia"]
+	path = cornucopia
+	url = https://github.com/giocomai/cornucopia
 [submodule "ganttrify"]
 	path = ganttrify
 	url = https://github.com/giocomai/ganttrify
