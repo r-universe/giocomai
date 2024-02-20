@@ -26,6 +26,9 @@
 [submodule "rbackupr"]
 	path = rbackupr
 	url = https://github.com/giocomai/rbackupr
+[submodule "ytdlpr"]
+	path = ytdlpr
+	url = https://github.com/giocomai/ytdlpr
 [submodule "zoteror"]
 	path = zoteror
 	url = https://github.com/giocomai/zoteror
