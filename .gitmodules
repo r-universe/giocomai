@@ -23,6 +23,9 @@
 [submodule "plausibler"]
 	path = plausibler
 	url = https://github.com/giocomai/plausibler
+[submodule "quackingllama"]
+	path = quackingllama
+	url = https://github.com/giocomai/quackingllama
 [submodule "rbackupr"]
 	path = rbackupr
 	url = https://github.com/giocomai/rbackupr
