@@ -8,6 +8,10 @@
 [submodule "cornucopia"]
 	path = cornucopia
 	url = https://github.com/giocomai/cornucopia
+[submodule "fbRads"]
+	path = fbRads
+	url = https://github.com/daroczig/fbRads
+	registered = false
 [submodule "ganttrify"]
 	path = ganttrify
 	url = https://github.com/giocomai/ganttrify
