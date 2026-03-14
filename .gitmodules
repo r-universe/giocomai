@@ -20,6 +20,9 @@
 [submodule "nomnomlgraph"]
 	path = nomnomlgraph
 	url = https://github.com/giocomai/nomnomlgraph
+[submodule "omekasr"]
+	path = omekasr
+	url = https://codeberg.org/giocomai/omekasr
 [submodule "plausibler"]
 	path = plausibler
 	url = https://github.com/giocomai/plausibler
